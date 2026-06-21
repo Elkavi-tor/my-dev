@@ -6,5 +6,5 @@ if (num > 0) {
 } else {
     console.log("The number is one.");
 }
-
+let num = 10;
 
